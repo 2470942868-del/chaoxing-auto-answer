@@ -31,3 +31,7 @@ https://www.google.cn/chrome/index.html
 正确率在95%以上，极低概率发生错很多，不放心可以豆包拍一拍检查几个，如果发现错很多，重新让脚本做一遍即可。
 
 若出现学习通提示作业答题情况异常，退出脚本再重新启动几次就好。
+
+---
+
+仓库地址：https://github.com/2470942868-del/chaoxing-auto-answer
